@@ -1,0 +1,5 @@
+Ticker,Play,Quantity,Strike,Expiration,Entry Value ($),Current Est Value ($),P/L ($),P/L (%)
+NFLX,BUY straddle,2.0,1265.0,2025-07-18,162.44,275.0,112.56,69.29
+NVS,SELL straddle,55.0,115.0,2025-07-18,110.0,7562.5,7452.5,6775.0
+NFLX,BUY straddle,2.0,1265.0,2025-07-18,162.44,275.0,112.56,69.29
+NVS,SELL straddle,55.0,115.0,2025-07-18,110.0,7562.5,7452.5,6775.0

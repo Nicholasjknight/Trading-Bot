@@ -1,0 +1,13 @@
+Ticker,Play,Straddle Cost,Simulated P/L %,Simulated P/L $
+NFLX,BUY straddle,81.21,5.1,4.14
+NVS,SELL straddle,3.61,5.3,0.19
+ABT,SELL straddle,4.65,-11.6,-0.54
+MMC,SELL straddle,6.25,-5.6,-0.35
+ELV,BUY straddle,26.88,7.5,2.02
+USB,SELL straddle,1.58,3.0,0.05
+TRV,SELL straddle,9.95,5.5,0.55
+WIT,BUY straddle,0.54,-11.6,-0.06
+FITB,SELL straddle,1.31,-7.9,-0.1
+CFG,SELL straddle,1.68,-12.9,-0.22
+OZK,BUY straddle,3.14,-0.7,-0.02
+EEFT,SELL straddle,2.97,11.4,0.34
